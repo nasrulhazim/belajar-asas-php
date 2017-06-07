@@ -1,34 +1,39 @@
 <?php
+$maklumat_asas_pelajar = [
+    'nama'       => 'Nasrul Hazim',
+    'kad_matrik' => 'A10000',
+    'jurusan'    => 'Sains Komputer',
+];
 
-// Aksara | String
-$nama = 'Nasrul Hazim';
+$maklumat_ibu_bapa = [
+    'nama_bapa' => 'Mohamad',
+    'nama_ibu'  => 'Saripah',
+];
 
-// Integer
-$umur      = 31;
-$tajuk     = 'Belajar PHP';
-$sub_tajuk = 'Pemboleh Ubah';
+$profil_pelajar = [
+    'maklumat_asas_pelajar' => $maklumat_asas_pelajar,
+    'maklumat_ibu_bapa'     => $maklumat_ibu_bapa,
+];
 
-// Float | Apung
-$jumlah = 20.20;
+?>
 
-// Boolean - Benar | Salah
-$bankrup = false;
-
-$bankrup = true;
-
-if ($bankrup == true) {
-    //echo 'awak bankrup';
-}
-
-// Array | Senarai | Koleksi
-$senarai_haiwan     = ['fish', 'cat', 'dog'];
-$senarai_harga_ikan = [10, 20, 30];
-$senarai_baju       = ['kemeja', 'tshirt'];
-
-$xyz = [1, 23, 4, true, false, 'kemeja'];
-
-echo $xyz[5];
-
-$xyz[5] = 'tshirt';
-
-echo $xyz[5];
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Maklumat Pelajar</title>
+</head>
+<body>
+	<h1>
+		<?=$profil_pelajar['maklumat_asas_pelajar']['nama'];?>
+		<small>
+			(<?=$profil_pelajar['maklumat_asas_pelajar']['kad_matrik'];?>)
+		</small>
+	</h1>
+	<h1>
+		Nama Bapa: <?=$profil_pelajar['maklumat_ibu_bapa']['nama_bapa'];?>
+	</h1>
+	<h1>
+		Nama Ibu: <?=$profil_pelajar['maklumat_ibu_bapa']['nama_ibu'];?>
+	</h1>
+</body>
+</html>
