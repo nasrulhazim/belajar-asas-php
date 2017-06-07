@@ -8,7 +8,9 @@ Ini adalah salah satu kerjasama dan inisiatif dari pihak [Amanz](https://amanz.m
 
 Sepanjang pembelajaran, anda akan menemui beberapa perkataan yang telah diterjemahkan dalam Bahasa Melayu. Jika terdapat sebarang kesilapan, anda boleh [membuka isu baru](https://github.com/nasrulhazim/belajar-asas-php/issues) di *repository* ini atau anda boleh *contribute* dengan klon *repository* ini dan membuat *Pull Request*. 
 
-| Bahsa Melayu | Bahasa Inggeris |
+| Bahasa Melayu | Bahasa Inggeris |
 |--------------|-----------------|
 | Komen | Comment |
 | Pelayar | Browser |
+| Umpuk | Assign |
+| Senarai | Array |
