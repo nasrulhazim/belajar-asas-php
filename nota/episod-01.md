@@ -2,7 +2,7 @@
 
 **Objektif:** Menyediakan persekitaran untuk pengaturcaraan PHP
 
-Dalam episode yang pertama ini, pengguna perlu menyediakan persekitaran untuk pengaturcaraan PHP.
+Dalam episod yang pertama ini, pengguna perlu menyediakan persekitaran untuk pengaturcaraan PHP.
 
 Buat pengguna macOS:
 
