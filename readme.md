@@ -13,4 +13,4 @@ Sepanjang pembelajaran, anda akan menemui beberapa perkataan yang telah diterjem
 | Komen | Comment |
 | Pelayar | Browser |
 | Umpuk | Assign |
-| Senarai | Array |
+| Tatasusunan | Array |

@@ -46,10 +46,10 @@ if ($bankrup == true) {
 }
 ```
 
-## Array atau Senarai atau Koleksi
+## Array atau Tatasusunan atau Senarai atau Koleksi
 
 ```php
-// Array | Senarai | Koleksi
+// Array | Tatasusunan | Senarai | Koleksi
 $senarai_haiwan     = ['fish', 'cat', 'dog'];
 $senarai_harga_ikan = [10, 20, 30];
 $senarai_baju       = ['kemeja', 'tshirt'];

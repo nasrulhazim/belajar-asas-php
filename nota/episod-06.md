@@ -1,4 +1,4 @@
-# Associative Array atau Senarai Berkaitan
+# Associative Array atau Tatasusunan Berkaitan
 
 **Objektif:** Memudahkan penstrukturan dan akses kepada maklumat dengan menggunakan *Associative Array*. 
 
