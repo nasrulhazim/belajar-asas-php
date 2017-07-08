@@ -7,7 +7,7 @@ Anda akan belajar:
 1. Bagaimana menggunakan PHP dalam HTML
 2. Bagaimana menggunkan pembolehubah (variable)
 3. Mengenali apa itu String
-4. Bagaimana hendak menggunkan pembulahubah dengan string
+4. Bagaimana hendak menggunakan pembolehubah dengan string
 5. Bagaimana hendak mencantumkan String
 
 ## Bagaimana menggunakan PHP dalam HTML
